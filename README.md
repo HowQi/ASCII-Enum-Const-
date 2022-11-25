@@ -1,6 +1,8 @@
 # ASCIIEnum(Const)
 
-An ASCII character table.
+An ASCII character table for C#, enumerate the ASCII characters.
+
+It's a static class with 128 constant declarations in it.
 
 ```
 public static class ASCIIEnum
@@ -12,7 +14,5 @@ public static class ASCIIEnum
     ......
 }
 ```
-
-It's a static class with 128 constant declarations in it.
 
 It is out-of-the-box. What you need is copy the file or all of the characters to your project.
