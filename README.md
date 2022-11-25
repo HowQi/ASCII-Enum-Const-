@@ -15,4 +15,4 @@ public static class ASCIIEnum
 }
 ```
 
-It is out-of-the-box. What you need is copy the file or all of the characters to your project.
+It is out-of-the-box. What you need is to copy the file or all of the characters to your project.
